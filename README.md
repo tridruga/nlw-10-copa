@@ -33,5 +33,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 <p align="center">
-  Feito por Lucas Xavier @tridruga
+  Feito por Lucas Xavier 
+  lucasxavierfecontato@gmail.com
 </p>
