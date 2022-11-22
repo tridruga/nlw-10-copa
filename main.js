@@ -23,21 +23,21 @@ function createGame(player1, hour, player2) {
   
   document.querySelector("#cards").innerHTML =
    
-  createCard("20/11", "domingo", createGame("qtar", "13:00", "equador")) +
+  createCard("20/11", "domingo", createGame("qtar", "0 x 2", "equador")) +
     createCard(
       "21/11",
       "segunda",
-      createGame("inglaterra", "10:00", "iran") +
-        createGame("senegal", "13:00", "holanda") +
-        createGame("eua", "16:00", "gales")
+      createGame("inglaterra", "6 x 2", "iran") +
+        createGame("senegal", "0 x 2", "holanda") +
+        createGame("eua", "1 x 1", "gales")
     ) +
     createCard(
       "22/11",
       "terça",
-      createGame("argentina", "07:00", "arabia-saudita") +
-        createGame("dinamarca", "10:00", "tunisia") +
-        createGame("mexico", "13:00", "polonia") +
-        createGame("frança", "16:00", "austrália")
+      createGame("argentina", "1 x 2", "arabia-saudita") +
+        createGame("dinamarca", "0 x 0", "tunisia") +
+        createGame("mexico", "0 x 0", "polonia") +
+        createGame("frança", "4 x 1", "austrália")
     ) +
     createCard(
       "23/11",
